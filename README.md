@@ -1,2 +1,2 @@
-# ROS2_learning
-This repository will continue to record my experience of learning ROS2.
+# MSPM0G3507的学习仓库
+这个仓库用于记录本人学习MSPM0G3507这款单片机的经历
